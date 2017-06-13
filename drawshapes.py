@@ -19,6 +19,7 @@ while(sides>0):
   right(120)
   sides -= 1
 penup()
+goto(-250,-150)
 
 
 
